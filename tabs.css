@@ -1,0 +1,40 @@
+/* Desislava Dicheva
+November 18,2018
+ */
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size:1.2rem;
+}
+a#more {
+    padding: 1rem;
+    background: #000;
+    color: #fff;
+    text-decoration: none;
+}
+a#more:visited{
+    text-decoration: none;
+}
+a#more:active{
+    text-decoration:underline;
+}
+a#more:hover{
+    text-decoration:underline;
+}
+div#content {
+    padding: 15px 0;
+}
+#tabs-1, #tabs-2, #tabs-3{
+    display: block;
+}
+ul, li {
+    display:inline;
+}
+ul{
+    margin:0;
+    padding:0;
+
+}
+li{
+    padding:10px;
+    border:1px solid #000;
+}
